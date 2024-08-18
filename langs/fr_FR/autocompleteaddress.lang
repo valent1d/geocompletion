@@ -1,0 +1,6 @@
+# Module label
+ModuleAutocompleteAddressName = GéoComplétion
+# Module description
+ModuleAutocompleteAddressDesc = Autocomplétion intelligente des adresses françaises
+# Module config page mssg
+AutocompleteAddressSetupPage = Le module GéoComplétion est prêt à l'emploi. Il n'y a rien à configurer ici.
