@@ -1,11 +1,13 @@
 # GéoComplétion pour Dolibarr
 
+<p align="center">
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v3-blue)
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-v14%2B-blue)
 ![API](https://img.shields.io/badge/API-adresse.data.gouv.fr-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20by-Digibleo-blue" alt="Made by Digibleo">
