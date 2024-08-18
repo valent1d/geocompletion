@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v3-blue)
-![Dolibarr](https://img.shields.io/badge/Dolibarr-v14%2B-blue)
+![Dolibarr](https://img.shields.io/badge/Dolibarr-v17%2B-blue)
 ![API](https://img.shields.io/badge/API-adresse.data.gouv.fr-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 <img src="https://img.shields.io/badge/Made%20by-Digibleo-blue" alt="Made by Digibleo">
