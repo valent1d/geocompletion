@@ -22,7 +22,7 @@
 
 ## 🚀 Installation
 
-1. Téléchargez le module et placez-le dans le dossier `htdocs/custom` de votre installation Dolibarr.
+1. Téléchargez le module via la dernière release Github disponible, séléctionnez l'asset module_autocompleteaddress-x.y.zip et placez-le dans le dossier `htdocs/custom` de votre installation Dolibarr.
 2. Rendez-vous dans le panneau d'administration de Dolibarr.
 3. Activez le module dans la liste des modules disponibles.
 
