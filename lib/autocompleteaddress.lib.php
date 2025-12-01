@@ -1,6 +1,6 @@
 <?php
 /*
- * Copyright (C) 2024 Digibleo
+ * Copyright (C) 2025 Valentin Denis <valentin@vltn.sh>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -15,7 +15,6 @@
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  *
- * For more information, please contact: hello@digibleo.com
  */
 
 function autocompleteaddressAdminPrepareHead()

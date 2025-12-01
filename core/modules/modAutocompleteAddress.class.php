@@ -1,6 +1,6 @@
 <?php
 /*
- * Copyright (C) 2024 Digibleo
+ * Copyright (C) 2025 Valentin Denis <valentin@vltn.sh>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -15,7 +15,6 @@
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <https://www.gnu.org/licenses/>.
  *
- * For more information, please contact: hello@digibleo.com
  */
 
 
@@ -28,16 +27,16 @@ class modAutocompleteAddress extends DolibarrModules
         global $langs, $conf;
 
         $this->db = $db;
-        $this->numero = 47891630;
+        $this->numero = 223050;
         $this->rights_class = 'autocompleteaddress';
-        $this->family = "crm";
-        $this->module_position = 500;
-        $this->editor_name = 'Digibleo';
-        $this->editor_url = 'https://www.digibleo.com';
+        $this->family = "VLTN";
+        $this->module_position = 100;
+        $this->editor_name = 'VLTN';
+        $this->editor_url = 'https://www.vltn.sh';
         $this->name = preg_replace('/^mod/i', '', get_class($this));
         $this->description = "Autocomplétion intelligente des adresses françaises";
         $this->descriptionlong = "Module d'autocomplétion des adresses françaises utilisant l'API adresse.data.gouv.fr pour un remplissage rapide et précis des formulaires d'adresse dans Dolibarr.";
-        $this->version = '1.0';
+        $this->version = '1.0.1';
         $this->const_name = 'MAIN_MODULE_' . strtoupper($this->name);
         $this->picto = 'autocompleteaddress@autocompleteaddress';
         $this->module_parts = array(
