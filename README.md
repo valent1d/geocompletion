@@ -33,6 +33,7 @@ Aucune configuration supplémentaire n'est nécessaire. Le module est **prêt à
 ## 📞 Support
 
 Pour toute question ou demande de support, contactez moi à l'adresse suivante : [hi@vltn.sh](mailto:hi@vltn.sh).
+
 ---
 
 <p align="center">
