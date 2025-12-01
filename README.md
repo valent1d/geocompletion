@@ -5,13 +5,13 @@
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-v17%2B-blue)
 ![API](https://img.shields.io/badge/API-adresse.data.gouv.fr-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-<img src="https://img.shields.io/badge/Made%20by-Digibleo-blue" alt="Made by Digibleo">
-<img src="https://img.shields.io/badge/contact-hello%40digibleo.com-blue" alt="Contact">
+<img src="https://img.shields.io/badge/Made%20by-VLTN-orange" alt="Made by VLTN">
+<img src="https://img.shields.io/badge/contact-hi%40vltn.sh-blue" alt="Contact">
 
 
 ## 🌍 À propos
 
-**GéoComplétion** est un module Dolibarr développé par [Digibleo](https://digibleo.com) pour simplifier et accélérer la saisie des adresses françaises dans les formulaires de Dolibarr. Ce module utilise l'API open-source et gratuite **adresse.data.gouv.fr** pour offrir une **autocomplétion intelligente** des champs d'adresse.
+**GéoComplétion** est un module Dolibarr développé par [VLTN](https://vltn.sh) pour simplifier et accélérer la saisie des adresses françaises dans les formulaires de Dolibarr. Ce module utilise l'API open-source et gratuite **adresse.data.gouv.fr** pour offrir une **autocomplétion intelligente** des champs d'adresse.
 
 ## ✨ Fonctionnalités
 
@@ -32,20 +32,9 @@ Aucune configuration supplémentaire n'est nécessaire. Le module est **prêt à
 
 ## 📞 Support
 
-Pour toute question ou demande de support, contactez **Digibleo** à l'adresse suivante : [hello@digibleo.com](mailto:hello@digibleo.com).
-
-## 👨‍💻 Auteur
-
-- **Société :** Digibleo  
-- **Email :** [hello@digibleo.com](mailto:hello@digibleo.com)  
-- **Version :** 1.0
-
-## 📝 Crédits
-
-Ce module utilise l'API gratuite et open-source d'adresse fournie par le gouvernement français, [adresse.data.gouv.fr](https://adresse.data.gouv.fr), pour la recherche d'adresses en France.
-
+Pour toute question ou demande de support, contactez moi à l'adresse suivante : [hi@vltn.sh](mailto:hi@vltn.sh).
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Powered%20by-Digibleo-blue" alt="Powered by Digibleo">
+  <img src="https://img.shields.io/badge/Powered%20by-VLTN-orange" alt="Powered by VLTN">
 </p>
